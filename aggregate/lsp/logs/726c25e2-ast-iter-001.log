@@ -1,0 +1,7 @@
+[2026-11-09T22:42:04Z] === AST ITERATION 1 START | repo=apache/avro sha=726c25e2 ===
+[2026-11-09T22:42:04Z] [iter=1] PHASE START: ast repo=apache/avro sha=726c25e2
+[2026-11-09T22:42:04Z] [iter=1] Building AST aggregate chunks
+[2026-11-09T22:46:30Z] [iter=1] AST chunks built count=1 triples=2994055
+[2026-11-09T22:46:30Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/726c25e2cf40b181a725335a21934f88c57068f3/.complete
+[2026-11-09T22:46:30Z] [iter=1] PHASE END: ast elapsed_s=266 elapsed_min=4.4
+[2026-11-09T22:46:30Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

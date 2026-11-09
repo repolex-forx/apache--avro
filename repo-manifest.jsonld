@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/apache/avro/commit/726c25e2cf40b181a725335a21934f88c57068f3",
       "git:hexsha": "726c25e2cf40b181a725335a21934f88c57068f3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/apache/avro/commit/73797ba7d99a3422d30d63c11cd41ea4413614e2",
